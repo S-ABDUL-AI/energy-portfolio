@@ -253,8 +253,8 @@ with col1:
             asset age — and optimizes maintenance budgets to maximize risk reduction
             per dollar spent. Aligned to CPUC Risk-Based Decision-Making thresholds.
         </div>
-        <a class="btn-primary" href="https://california-grid-asset-risk-wildfire-vulnerability-dashboard-hm.streamlit.app/" target="_blank">🚀 Open App</a>
-        <a class="btn-secondary" href="https://github.com/S-ABDUL-AI/grid-risk-dashboard" target="_blank">⌥ GitHub</a>
+        <a class="btn-primary" href="https://california-grid-asset-risk-wildfire-vulnerability-dashboard-hm.streamlit.app" target="_blank">🚀 Open App</a>
+        <a class="btn-secondary" href="https://github.com/S-ABDUL-AI/California-Grid-Asset-Risk-Wildfire-Vulnerability-Dashboard" target="_blank">⌥ GitHub</a>
     </div>
     """, unsafe_allow_html=True)
 
@@ -274,8 +274,8 @@ with col2:
             frontier curves, and runs Monte Carlo uncertainty analysis with P10–P90
             confidence intervals. Aligned to CPUC RBDM benefit-cost filing requirements.
         </div>
-        <a class="btn-primary" href="https://grid-investment-prioritization-engine-hsyvnqi9iesad5met5pw7v.streamlit.app/" target="_blank">🚀 Open App</a>
-        <a class="btn-secondary" href="https://github.com/S-ABDUL-AI/grid-investment-engine" target="_blank">⌥ GitHub</a>
+        <a class="btn-primary" href="https://grid-investment-prioritization-engine.streamlit.app" target="_blank">🚀 Open App</a>
+        <a class="btn-secondary" href="https://github.com/S-ABDUL-AI/grid-investment-prioritization-engine" target="_blank">⌥ GitHub</a>
     </div>
     """, unsafe_allow_html=True)
 
@@ -298,8 +298,8 @@ with col3:
             adoption rates, rooftop solar penetration, and commercial load growth shift
             peak demand and grid stress under conservative, base, and aggressive futures.
         </div>
-        <a class="btn-primary" href="https://california-grid-demand-forecast-35hscpx2oxi3y7glsgkphj.streamlit.app/" target="_blank">🚀 Open App</a>
-        <a class="btn-secondary" href="https://github.com/S-ABDUL-AI/ca-grid-demand-forecast" target="_blank">⌥ GitHub</a>
+        <a class="btn-primary" href="https://california-grid-demand-forecast.streamlit.app" target="_blank">🚀 Open App</a>
+        <a class="btn-secondary" href="https://github.com/S-ABDUL-AI/california-grid-demand-forecast" target="_blank">⌥ GitHub</a>
     </div>
     """, unsafe_allow_html=True)
 
@@ -319,8 +319,8 @@ with col4:
             cointegration, VAR estimation, orthogonalized impulse response functions,
             and forecast error variance decomposition across 37 years of annual data.
         </div>
-        <a class="btn-primary" href="https://oil-price-shock-transmission-9xazdnfk5tnuaffap34ysp.streamlit.app/" target="_blank">🚀 Open App</a>
-        <a class="btn-secondary" href="https://github.com/S-ABDUL-AI/OIL-PRICE-SHOCK-TRANSMISSION-DASHBOARD-" target="_blank">⌥ GitHub</a>
+        <a class="btn-primary" href="https://oil-price-shock-transmission.streamlit.app" target="_blank">🚀 Open App</a>
+        <a class="btn-secondary" href="https://github.com/S-ABDUL-AI/oil-price-shock-transmission" target="_blank">⌥ GitHub</a>
     </div>
     """, unsafe_allow_html=True)
 
